@@ -3,6 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="../assets/styles.css">
     <title>Temperatura</title>
 </head>
 

@@ -8,21 +8,22 @@
 </head>
 
 <body>
-    <h1> matematicas </h1>
-    <ul>
-        <li><a href="/matematicas/imc/index.php"> IMC</a></li>
-        <li><a href="/desconto/index.php">desconto</a></li>
-        <li><a href="/hipotenusa/index.php">hipotenusa</a></li>
-        <li><a href="/notas/index.php">arredondar notas</a></li>
-    </ul>
+   <h1>Matemáticas</h1>
+        <ul>
+            <li><a href="matematicas/imc/index.php">IMC</a></li>
+            <li><a href="matematicas/desconto/index.php">Desconto</a></li>
+            <li><a href="matematicas/hipotenusa/index.php">Hipotenusa</a></li>
+            <li><a href="matematicas/notas/index.php">Arredondar Notas</a></li>
+        </ul>
 
-    <h1> strings</h1>
-    <ul>
-        <li><a href="../nome/index.php">gerar nome de usuario</a></li>
-        <li><a href="../censurador/index.php">censurador</a></li>
-        <li><a href="../formatador/index.php">formatar titulos</a></li>
-        <li><a href="../acronimo/index.php">acronimo</a></li>
-    </ul>
+        <h1>Strings</h1>
+        <ul>
+            <li><a href="strings/nome/index.php">Gerar Nome de Usuário</a></li>
+            <li><a href="strings/censurador/index.php">Censurador</a></li>
+            <li><a href="strings/formatador/index.php">Formatar Títulos</a></li>
+            <li><a href="strings/acronimo/index.php">Acrônimo</a></li>
+        </ul>
+
 </body>
 
 </html>

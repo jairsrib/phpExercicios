@@ -22,6 +22,8 @@
                 <li><a href="idade/index.php">idade</a></li>
                 <li><a href="emprestimo/index.php">emprestimo</a></li>
                 <li><a href="senha/index.php">senha</a></li>
+                <li><a href="funcoes/index.php">senha</a></li>
+
             </ul>
         </div>
 </body>
